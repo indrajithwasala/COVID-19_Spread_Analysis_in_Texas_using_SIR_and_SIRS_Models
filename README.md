@@ -1,1 +1,1 @@
-# Comprehensive_Analysis_for_the_Spread_of_COVID-19_in_Texas
+# COVID-19 Spread Analysis in Texas using SIR and SIRS Models
